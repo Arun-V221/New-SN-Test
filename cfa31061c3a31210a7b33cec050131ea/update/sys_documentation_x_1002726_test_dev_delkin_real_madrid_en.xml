@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="real_madrid" label="Real Madrid" language="en" table="x_1002726_test_dev_delkin">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>real_madrid</element>
+            <help/>
+            <hint/>
+            <label>Real Madrid</label>
+            <language>en</language>
+            <name>x_1002726_test_dev_delkin</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-05 18:09:48</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Real Madrid</sys_name>
+            <sys_package display_value="Test development" source="x_1002726_test_dev">cfa31061c3a31210a7b33cec050131ea</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test development">cfa31061c3a31210a7b33cec050131ea</sys_scope>
+            <sys_update_name>sys_documentation_x_1002726_test_dev_delkin_real_madrid_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-05 18:09:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
